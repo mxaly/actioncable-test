@@ -3,6 +3,6 @@ import ReactDOM from 'react-dom';
 window.React = React;
 window.ReactDOM = ReactDOM;
 
-import HelloWorld from './components/hello-world';
-registerComponent('HelloWorld', HelloWorld);
+import Chat from './components/chat';
+registerComponent('HelloWorld', Chat);
 
