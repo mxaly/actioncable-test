@@ -4,5 +4,5 @@ window.React = React;
 window.ReactDOM = ReactDOM;
 
 import Chat from './components/chat';
-registerComponent('HelloWorld', Chat);
+registerComponent('Chat', Chat);
 
