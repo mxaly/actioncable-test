@@ -13,4 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require_tree .
+//= require cable
+//= require rooms
+//= require react_integration
+//= require react_bundle
