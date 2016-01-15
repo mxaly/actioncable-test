@@ -1,7 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import Alt from './flux/alt';
+
 window.React = React;
 window.ReactDOM = ReactDOM;
+window.Alt = Alt;
 
 import Chat from './components/chat';
 registerComponent('Chat', Chat);
